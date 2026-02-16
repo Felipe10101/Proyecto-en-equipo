@@ -13,8 +13,9 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
 
-
-            //CAMBIO DE EJEMPLO PARA VIDEO
+            for (int j = 1; j <= 20; j++) {
+                System.out.println("j = " + j);
+            }
         }
     }
 }
